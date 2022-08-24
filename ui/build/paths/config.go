@@ -82,6 +82,7 @@ var Configuration = map[string]PathConfig{
 	"curl":    Allowed,
 	"cpio":    Allowed,
 	"date":    Allowed,
+	"debugfs": Allowed,
 	"depmod":  Allowed,
 	"dd":      Allowed,
 	"diff":    Allowed,
